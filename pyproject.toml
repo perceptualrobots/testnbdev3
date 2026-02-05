@@ -15,7 +15,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
 ]
-dependencies = []
+dependencies = ['nbdev>=3.0.10']
 
 [project.urls]
 Repository = "https://github.com/perceptualrobots/testnbdev3"
